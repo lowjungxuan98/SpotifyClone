@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "385697978729",
+    "project_id": "spotifyclone-d30a9",
+    "storage_bucket": "spotifyclone-d30a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385697978729:android:1bd19326f26df2588185f8",
+        "android_client_info": {
+          "package_name": "com.plcoding.spotifycloneyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385697978729-p2kkr5chdmo53mhgcq79t74esl356phb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plcoding.spotifycloneyt",
+            "certificate_hash": "d514d9dca726ea5add22b2ddc11de32fcf5395e9"
+          }
+        },
+        {
+          "client_id": "385697978729-p6in5oeo521em7sjnrf2bf52tvf1cr0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8UxO_jtP1OQmMjWh-TTwhqNEZO2pw9Q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385697978729-p6in5oeo521em7sjnrf2bf52tvf1cr0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
